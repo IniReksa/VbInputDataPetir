@@ -1,0 +1,15 @@
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.vbprojResolveAssemblyReference.cache
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.Form1.resources
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.Form2.resources
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.Resources.resources
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.vbproj.GenerateResource.Cache
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\bin\Debug\CobaPetir.exe.manifest
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\bin\Debug\CobaPetir.application
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\bin\Debug\CobaPetir.exe
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\bin\Debug\CobaPetir.pdb
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\bin\Debug\CobaPetir.xml
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.exe.manifest
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.application
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.exe
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.xml
+C:\Users\IniReksa\Documents\ProjectVB\CobaPetir\CobaPetir\obj\x86\Debug\CobaPetir.pdb
